@@ -45,9 +45,9 @@ I'm a passionate developer who loves exploring new technologies and building pro
 
 ## 🤝 Connect with Me
 <p>
-  <a href="https://www.linkedin.com/in/raj-abhishek-devops" target="_blank">LinkedIn</a> ·
   <a href="https://twitter.com/your-twitter" target="_blank">Twitter</a> ·
-  <a href="mailto:raj.vbeyond@gmail.com">Email</a>
+  <a href="[https://www.linkedin.com/in/your-profile/](www.linkedin.com/in/raj-abhishek-devops)"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:raj.vbeyond@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 *Feel free to check out my repositories and leave a star if you like what you see!*
