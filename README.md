@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I'm Raj Abhishek 👋 </h1>
-<h3 align="center">DevOps | Cloud Engineer | Automation Enthusiast</h3>
+<h3 align="center"> DevOps | Cloud Engineer | Automation Enthusiast </h3>
 
 ---
 <p align="center">
@@ -45,9 +45,9 @@ I'm a passionate developer who loves exploring new technologies and building pro
 
 ## 🤝 Connect with Me
 <p>
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">LinkedIn</a> ·
+  <a href="www.linkedin.com/in/raj-abhishek-devops" target="_blank">LinkedIn</a> ·
   <a href="https://twitter.com/your-twitter" target="_blank">Twitter</a> ·
-  <a href="mailto:your.email@example.com">Email</a>
+  <a href="mailto:raj.vbeyond@gmail.com">Email</a>
 </p>
 
 *Feel free to check out my repositories and leave a star if you like what you see!*
