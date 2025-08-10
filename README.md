@@ -17,7 +17,7 @@ I'm a passionate developer who loves exploring new technologies and building pro
 - 🌱 I’m learning advanced backend development and cloud architecture
 - 👯 I’m open to collaborate on interesting web and mobile apps
 - 💬 Ask me about Python, JavaScript, or anything tech
-- 📫 Reach me at: **your.email@example.com**
+- 📫 Reach me at: **raj.vbeyond@gmail.com**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy solving complex puzzles and algorithms
 
