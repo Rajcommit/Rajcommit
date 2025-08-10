@@ -4,6 +4,10 @@
   <img src="https://github.com/rajcommit/rajcommit/blob/main/assets/hero.gif" alt="Hero Banner" width="100%"/>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=435&lines=Passionate+DevOps+Engineer;Tech+Learner+and+Explorer" alt="Typing SVG" />
+</p>
+
 I'm a passionate developer who loves exploring new technologies and building projects that make life easier. Welcome to my GitHub profile!
 
 ## 🚀 About Me
