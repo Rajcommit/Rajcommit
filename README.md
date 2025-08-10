@@ -1,4 +1,4 @@
-<h1 align="center"> # Hi, I'm Raj Abhishek 👋 </h1>
+<h1 align="center"> Hi, I'm Raj Abhishek 👋 </h1>
 <h3 align="center">DevOps | Cloud Engineer | Automation Enthusiast</h3>
 
 ---
