@@ -1,4 +1,4 @@
-# Hi, I'm Sushovan Medda 👋
+# Hi, I'm Raj Abhishek 👋
 
 <p align="center">
   <img src="https://github.com/rajcommit/rajcommit/blob/main/assets/hero.gif" alt="Hero Banner" width="100%"/>
