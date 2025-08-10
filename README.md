@@ -1,6 +1,5 @@
 <h1 align="center"> # Hi, I'm Raj Abhishek 👋 </h1>
 <h3 align="center">DevOps | Cloud Engineer | Automation Enthusiast</h3>
-
 ---
 <p align="center">
   <img src="https://github.com/rajcommit/rajcommit/blob/main/assets/hero.gif" alt="Hero Banner" width="100%"/>
