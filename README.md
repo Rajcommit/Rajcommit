@@ -42,7 +42,7 @@ I'm a DevOps and cloud engineer with a passion for building scalable systems and
   <img src="https://github-readme-stats.vercel.app/api?username=rajcommit&show_icons=true&theme=radical" alt="GitHub stats"/>
 </p>
 <p>
-  <img src="https://streak-stats.demolab.com/?user=rajcommit&theme=radical" alt="GitHub streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajcommit&theme=radical" alt="GitHub streak"/>
 </p>
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajcommit&layout=compact&theme=radical" alt="Top languages"/>
