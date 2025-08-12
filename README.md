@@ -1,16 +1,35 @@
-<h1 align="center"> Hi, I'm Raj Abhishek 👋 </h1>
-<h3 align="center"> DevOps | Cloud Engineer | Automation Enthusiast </h3>
+<h1 align="center">Hi, I'm Raj Abhishek 👋</h1>
+<h3 align="center">DevOps | Cloud Engineer | Automation Enthusiast</h3>
 
 ---
+
 <p align="center">
   <img src="https://github.com/rajcommit/rajcommit/blob/main/assets/hero.gif" alt="Hero Banner" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=435&lines=Passionate+DevOps+Engineer;Tech+Learner+and+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=435&lines=Passionate+DevOps+Engineer;Tech+Learner+and+Explorer" alt="Typing SVG"/>
 </p>
 
-I'm a passionate developer who loves exploring new technologies and building projects that make life easier. Welcome to my GitHub profile!
+<p align="center">I'm a passionate developer who loves exploring new technologies and building projects that make life easier. Welcome to my GitHub profile!</p>
+
+```python
+class RajAbhishek:
+    def __init__(self):
+        self.role = "DevOps & Cloud Engineer"
+        self.pronouns = "He/Him"
+        self.contact = "raj.vbeyond@gmail.com"
+        self.fun_fact = "I enjoy solving complex puzzles and algorithms"
+
+    def currently_learning(self):
+        return ["Advanced backend development", "Cloud architecture"]
+
+    def looking_to_collaborate_on(self):
+        return ["Web apps", "Mobile apps"]
+
+    def say_hi(self):
+        print("Thanks for dropping by! 👋")
+```
 
 ## 🚀 About Me
 - 🔭 I’m currently working on enriching my open-source portfolio
@@ -22,7 +41,7 @@ I'm a passionate developer who loves exploring new technologies and building pro
 - ⚡ Fun fact: I enjoy solving complex puzzles and algorithms
 
 ## 🛠️ Languages and Tools
-<p>
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
@@ -33,20 +52,20 @@ I'm a passionate developer who loves exploring new technologies and building pro
 </p>
 
 ## 📈 GitHub Stats
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rajcommit&show_icons=true&theme=radical" alt="GitHub stats"/>
 </p>
-<p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajcommit&theme=radical" alt="GitHub streak"/>
 </p>
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajcommit&layout=compact&theme=radical" alt="Top languages"/>
 </p>
 
 ## 🤝 Connect with Me
-<p>
-  <a href="[https://www.linkedin.com/in/your-profile/](www.linkedin.com/in/raj-abhishek-devops)"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:raj.vbeyond@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/raj-abhishek-devops"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:raj.vbeyond@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 *Feel free to check out my repositories and leave a star if you like what you see!*
