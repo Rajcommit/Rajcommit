@@ -8,7 +8,7 @@
 
 ---
 <p align="center">
-  <img src="https://github.com/rajcommit/rajcommit/blob/main/assets/hero.gif" alt="Hero Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/rajcommit/rajcommit/main/assets/hero.gif" alt="Hero Banner" width="100%"/>
 </p>
 
 <p align="center">
