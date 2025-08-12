@@ -42,7 +42,7 @@ I'm a DevOps and cloud engineer with a passion for building scalable systems and
   <img src="https://github-readme-stats.vercel.app/api?username=rajcommit&show_icons=true&theme=radical" alt="GitHub stats"/>
 </p>
 <p>
-  <img src="https://streak-stats.demolab.com?user=rajcommit&theme=radical" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com/?user=rajcommit&theme=radical" alt="GitHub streak"/>
 </p>
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajcommit&layout=compact&theme=radical" alt="Top languages"/>
@@ -50,7 +50,7 @@ I'm a DevOps and cloud engineer with a passion for building scalable systems and
 
 ## 🏆 Achievements
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=rajcommit&theme=radical&margin-w=15&margin-h=15" alt="GitHub trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rajcommit&theme=radical" alt="GitHub trophies"/>
 </p>
 
 ## 🤝 Connect with Me
